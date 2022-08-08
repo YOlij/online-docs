@@ -1,0 +1,27 @@
+name: DoxygenDocumentation
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-documentation:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build Doxygen Documentation
+        uses: mattnotmitt/doxygen-action@v1.1.0
+        with:
+          doxyfile-path: ./Doxyfile
+          working-directory: .
+    
+      - name: Deploy Doxygen Documentation to GH pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./html/
+          enable_jekyll: true
+          allow_empty_commit: false
+          publish_branch: master
