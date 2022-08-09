@@ -1,6 +1,6 @@
 /**
 * @file
-* @author Yvonne <yvonneIsLeBonAndMore@address.com>
+* @author Yvonne <yvonneO@address.com>
 *
 * @section LICENSE
 *
