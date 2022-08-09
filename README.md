@@ -1,2 +1,3 @@
-# online-docs
-Website for md files AND doxygen
+# README
+
+Test repository for the KISS project's documentation website.
