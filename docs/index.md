@@ -1,12 +1,12 @@
-<!--  
+{::comment}
 ---
 layout: default
 title: Home
 nav_order: 1
 description: "KISS landing page"
 permalink: /
----  
--->
+---
+{:/comment}
 
 # The KISS prototype
 {: .fs-9 }
