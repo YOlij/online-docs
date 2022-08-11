@@ -14,7 +14,7 @@ In the KISS project, a modular framework is developed for simulation environment
 The goal of the prototype project is to develop a fast, maintainable and well architected 2D hydrodynamic solver that mostly targets flooding applications (coastal and riverine).
 The first prototype applications on this framework will, therefore, involve two-dimensional (2D), depth-averaged shallow-water applications.
 
-{: .fs-6 .fw-300 }
+[//]: # ({: .fs-6 .fw-300 })
 
 [Getting Started](kiss/docs/getting_started/index.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Tutorials](kiss/docs/tutorials/tutorials.md){: .btn .fs-5 .mb-4 .mb-md-0 }
 
