@@ -10,7 +10,7 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
 # Aux links for the upper right navigation
 aux_links:
 "The KISS prototype on GitHub (private)":
-    - "//github.com/Deltares/KissProto1"
+    - "https://github.com/Deltares/KissProto1/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true    

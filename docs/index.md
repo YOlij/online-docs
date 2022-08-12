@@ -18,6 +18,7 @@ The first prototype applications on this framework will, therefore, involve two-
 [Getting Started](kiss/docs/getting_started/index.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }[Tutorials](kiss/docs/tutorials/tutorials.md){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
+**Version: `0.0.1`. See [on GitHub](https://github.com/Deltares/KissProto1)!**
 
 ## Manuals
 
