@@ -20,3 +20,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Plugins (previously gems:)
 plugins:
   - jekyll-include-cache
+  
+include:
+  - docs
