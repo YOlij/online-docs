@@ -1,16 +1,18 @@
 title: KISS
 description: Documentation for the KISS Project
-# url: "https://yolij.github.io/kiss-docs-gh1" # the base hostname & protocol for your site, e.g. http://example.com
+# -jtd # url: "https://yolij.github.io/kiss-docs-gh1" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: just-the-docs/just-the-docs
+# -jtd remote_theme: just-the-docs/just-the-docs
 
-# Aux links for the upper right navigation
-aux_links:
-  "The KISS prototype on GitHub (private)":
-    - "https://github.com/Deltares/KissProto1/"
+# -jtd # Aux links for the upper right navigation
+# -jtd aux_links:
+# -jtd   "The KISS prototype on GitHub (private)":
+# -jtd     - "https://github.com/Deltares/KissProto1/"
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true    
+# -jtd # Makes Aux links open in a new tab. Default is false
+# -jtd aux_links_new_tab: true    
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/kissprojectavatar.png"
+# -jtd # Set a path/url to a logo that will be displayed instead of the title
+# -jtd logo: "/assets/images/kissprojectavatar.png"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
