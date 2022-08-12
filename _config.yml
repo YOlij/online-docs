@@ -15,3 +15,15 @@ aux_links_new_tab: true
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/kissprojectavatar.png"
 
+<<<<<<< HEAD
+=======
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
+  
+include:
+  - docs
+theme: jekyll-theme-cayman
+>>>>>>> 2650455ec941863a9a610f76d8d46979e93b7346
