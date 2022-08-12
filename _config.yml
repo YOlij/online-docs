@@ -16,3 +16,7 @@ description: Documentation for the KISS Project
 # -jtd logo: "/assets/images/kissprojectavatar.png"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-include-cache
