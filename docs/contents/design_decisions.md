@@ -28,7 +28,7 @@ nav_order: 4
  - Prototype scope:
  
     - Land
-        - Topography: terrain height (Bed)
+        - Topography: terrain height
         - Bed roughness
         - Sediment characteristics
         - Vegetation
